@@ -13,16 +13,6 @@ I build projects as reviewable systems rather than one-off demos: typed Python A
 | [Prompt/Tool Regression CI](https://github.com/clintsan/prompt-tool-regression-ci) | Run local prompt and tool-call regression suites that surface changed/failed behavior before deployment. | Python, FastAPI, CI, regression testing |
 | [RAG Reliability Workbench](https://github.com/clintsan/rag-reliability-workbench) | Evaluate retrieval quality, citation coverage, answer support, and RAG regressions from a local corpus. | Python, FastAPI, RAG evaluation, dashboards |
 | [MCP Security Gateway](https://github.com/clintsan/mcp-security-gateway) | Evaluate MCP-style tool requests with local policy decisions, approval boundaries, and audit trails. | Python, FastAPI, MCP security, policy engine |
-| [Incident Response Copilot](https://github.com/clintsan/incident-response-copilot) | Triage security alerts into incidents, evidence, timeline events, tasks, and playbook steps. | Python, FastAPI, security automation |
-
-## Supporting Projects
-
-- [Autonomous Data Analyst](https://github.com/clintsan/autonomous-data-analyst) - DuckDB, FastAPI, Streamlit, and Pydantic AI boundaries for CSV analysis.
-- [K8s Policy Agent](https://github.com/clintsan/k8s-policy-agent) - Kubernetes NetworkPolicy generation, validation, GitOps metadata, and safety boundaries.
-- [AI-Enhanced SIEM](https://github.com/clintsan/ai-enhanced-siem) - Wazuh-style alert parsing, Redis degraded-state handling, Gemini enrichment, and firewall suggestion review gates.
-- [Malware Analysis Pipeline](https://github.com/clintsan/malware-analysis-pipeline) - Cuckoo, Magika, Gemini, YARA, and explicit fallback/degraded reporting.
-- [Smart Contract Auditor](https://github.com/clintsan/smart-contract-auditor) - Slither, Foundry, Gemini enrichment, PoC boundary labeling, and audit metadata.
-- [Cognitive Pentesting Agent](https://github.com/clintsan/cognitive-pentesting-agent) - Authorized OWASP ZAP workflows with guardrails and phase failure handling.
 
 ## What I Optimize For
 
